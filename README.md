@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ryan!
 
 <!--
 **Ryan4012/Ryan4012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
