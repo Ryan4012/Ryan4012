@@ -1,7 +1,29 @@
-## Hi, I'm Ryan!
+<h1>Hi, I'm Ryan! </h1>
+
+<h2>👨‍💻 IT/CyberSecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/Ryan4012/Projects)
+- [PC Build](https://github.com/Ryan4012/Projects)
+- [DNS Pi Hole](https://github.com/Ryan4012/Projects)
+
+<h2>📄 IT/CyberSecurity Certifications:</h2>
+
+-[Google IT Support Professinol](https://github.com/Ryan4012/Certifications)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Ryan4012/Ryan4012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
