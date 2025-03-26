@@ -8,7 +8,7 @@
 
 <h2>📄 IT/CyberSecurity Certifications:</h2>
 
--[Google IT Support Professinol](https://github.com/Ryan4012/Certifications)
+-[Google IT Support Professional](https://github.com/Ryan4012/Certifications)
 
 
 <h2> 🤳 Connect with me:</h2>
