@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
 - [PC Build](https://github.com/Ryan4012/PC-Build)
-- [DNS Pi Hole](https://github.com/Ryan4012/Projects)
+- [DNS Pi Hole](https://github.com/Ryan4012/DNS-Pi-Hole)
 
 <h2>📄 IT/CyberSecurity Certifications:</h2>
 
