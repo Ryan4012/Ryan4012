@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! </h1>
+<h1>Hi, I'm Ryan! <br/> CSUF Computer Science, CyberSecurity Concentration Student </a></h1>
 
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
