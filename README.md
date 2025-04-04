@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/CyberSecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Ryan4012/Projects)
+- [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
 - [PC Build](https://github.com/Ryan4012/Projects)
 - [DNS Pi Hole](https://github.com/Ryan4012/Projects)
 
