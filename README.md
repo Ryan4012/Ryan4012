@@ -1,15 +1,29 @@
 <h1>Hi, I'm Ryan! <br/> CSUF Computer Science, Cybersecurity Concentration Student </a></h1>
 
-<h2>👨‍💻 IT/Cybersecurity/Cloud Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
-- [PC Build](https://github.com/Ryan4012/PC-Build)
-- [DNS Pi Hole](https://github.com/Ryan4012/DNS-Pi-Hole)
-- [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
+- <b>Information Technology</b>
+  - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
+  - [PC Build](https://github.com/Ryan4012/PC-Build)
+  - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
+- <b>Cybersecurity</b>
+  - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
+  - [Home SOC Lab]()
+- <b>Cloud</b>
+  - [Personal Portfolio on the Cloud]()
+  - [Containerized Web App]()
 
-<h2>📄 IT/Cybersecurity/Cloud Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
-- [Google IT Support Professional](https://github.com/Ryan4012/Certifications)
+- <b>Information Technology</b>
+  - [Google IT Support Professional](https://github.com/Ryan4012/Certifications)
+
+- <b>Cybersecurity</b>
+  - [...]()
+  
+- <b>Cloud</b>
+  - [...]()
+
 
 
 <h2> 🤳 Connect with me:</h2>
