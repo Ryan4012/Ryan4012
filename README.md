@@ -16,7 +16,7 @@
 <h2>📄 Certifications:</h2>
 
 - <b>Information Technology</b>
-  - [Google IT Support Professional](https://github.com/Ryan4012/Certifications)
+  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7)
 
 - <b>Cybersecurity</b>
   - [...]()
