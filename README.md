@@ -8,7 +8,7 @@
   - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
 - <b>Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
-  - [Azure Home SOC Lab](https://github.com/Ryan4012/project-url)
+  - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
 - <b>Cloud</b>
   - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
   - [Containerized Web App](https://github.com/Ryan4012/project-url)
