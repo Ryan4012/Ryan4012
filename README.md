@@ -8,10 +8,10 @@
   - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
 - <b>Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
-  - [Home SOC Lab]()
+  - [Azure Home SOC Lab](https://github.com/Ryan4012/project-url)
 - <b>Cloud</b>
-  - [Personal Portfolio on the Cloud]()
-  - [Containerized Web App]()
+  - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
+  - [Containerized Web App](https://github.com/Ryan4012/project-url)
 
 <h2>📄 Certifications:</h2>
 
