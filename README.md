@@ -2,26 +2,26 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Information Technology</b>
+- <b>💻 Information Technology</b>
   - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
   - [PC Build](https://github.com/Ryan4012/PC-Build)
   - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
-- <b>Cybersecurity</b>
+- <b>🛡️ Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
   - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
-- <b>Cloud</b>
+- <b>☁️ Cloud</b>
   - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
   - [Containerized Web App](https://github.com/Ryan4012/project-url)
 
 <h2>📄 Certifications:</h2>
 
-- <b>Information Technology</b>
+- <b>💻 Information Technology</b>
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7)
 
-- <b>Cybersecurity</b>
+- <b>🛡️ Cybersecurity</b>
   - [...]()
   
-- <b>Cloud</b>
+- <b>☁️ Cloud</b>
   - [...]()
 
 
