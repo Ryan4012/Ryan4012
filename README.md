@@ -19,6 +19,7 @@
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7)
 
 - <b>🛡️ Cybersecurity</b>
+  - [Google Cybersecurity Professional]()
   - [...]()
   
 - <b>☁️ Cloud</b>
