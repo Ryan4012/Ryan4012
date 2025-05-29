@@ -9,6 +9,7 @@
 - <b>🛡️ Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
   - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
+  - [File Integrity Monitoring System](https://github.com/Ryan4012/project-url)
 - <b>☁️ Cloud</b>
   - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
   - [Containerized Web App](https://github.com/Ryan4012/project-url)
