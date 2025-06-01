@@ -6,13 +6,17 @@
   - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
   - [PC Build](https://github.com/Ryan4012/PC-Build)
   - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
+
 - <b>🛡️ Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
   - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
   - [FIM (File Integrity Monitor) System](https://github.com/Ryan4012/FIM)
-- <b>☁️ Cloud</b>
+
+- <b>🤖 Software Development and AI/ML</b>
   - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
   - [Containerized Web App](https://github.com/Ryan4012/project-url)
+  - ...
+  - ...
 
 <h2>📄 Certifications:</h2>
 
@@ -23,7 +27,7 @@
   - [Google Cybersecurity Professional]()
   - [...]()
   
-- <b>☁️ Cloud</b>
+- <b>🤖 Software Development and AI/ML</b>
   - [...]()
 
 
