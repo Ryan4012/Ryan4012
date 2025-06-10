@@ -12,9 +12,17 @@
   - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
   - [FIM (File Integrity Monitor) System](https://github.com/Ryan4012/FIM)
 
-- <b>🤖 Software Development and AI/ML</b>
+- <b>☁️ Cloud</b>
   - [Personal Portfolio on the Cloud](https://github.com/Ryan4012/project-url)
   - [Containerized Web App](https://github.com/Ryan4012/project-url)
+  - ...
+  - ...
+    
+- <b>🤖 AI/ML</b>
+  - ...
+  - ...
+    
+- <b>⌨️ Software Development</b>
   - ...
   - ...
 
@@ -24,10 +32,10 @@
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7)
 
 - <b>🛡️ Cybersecurity</b>
-  - [Google Cybersecurity Professional]()
+  - [Google Cybersecurity Professional]() (Expected 2026)
   - [...]()
   
-- <b>🤖 Software Development and AI/ML</b>
+- <b>...</b>
   - [...]()
 
 
