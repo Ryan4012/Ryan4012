@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
   - [PC Build](https://github.com/Ryan4012/PC-Build)
   - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
-  - ...
+  - []()
 
 - <b>🛡️ Cybersecurity</b>
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
@@ -14,17 +14,19 @@
   - [FIM (File Integrity Monitor) System](https://github.com/Ryan4012/FIM)
 
 - <b>☁️ Cloud</b>
-  - [Containerized Web App](https://github.com/Ryan4012/project-url)
-  - [...](https://github.com/Ryan4012/project-url)
-  - ...
+  - [Hosting a Static Website](https://github.com/Ryan4012/project-url)
+  - [Serverless Application](https://github.com/Ryan4012/project-url)
+  - [Simple Data Storage and Retrieval](https://github.com/Ryan4012/project-url)
+  - []()
     
 - <b>🤖 AI/ML</b>
-  - ...
-  - ...
+  - []()
+  - []()
     
 - <b>⌨️ Software Development</b>
   - [Coffee Shop Game in Python](https://github.com/Ryan4012/project-url)
   - [Rest API](https://github.com/Ryan4012/project-url)
+  - []()
 
 <h2>📄 Certifications:</h2>
 
