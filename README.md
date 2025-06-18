@@ -24,7 +24,7 @@
     
 - <b>⌨️ Software Development</b>
   - [Coffee Shop Game in Python](https://github.com/Ryan4012/project-url)
-  - ...
+  - [Rest API](https://github.com/Ryan4012/project-url)
 
 <h2>📄 Certifications:</h2>
 
