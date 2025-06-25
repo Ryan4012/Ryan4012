@@ -12,15 +12,16 @@
   - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
   - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
   - [FIM (File Integrity Monitor) System](https://github.com/Ryan4012/FIM)
+  - 
 
 - <b>☁️ Cloud</b>
-  - [Hosting a Static Website](https://github.com/Ryan4012/project-url)
-  - [Serverless Application](https://github.com/Ryan4012/project-url)
-  - [Simple Data Storage and Retrieval](https://github.com/Ryan4012/project-url)
+  - [Smart Static Website](https://github.com/Ryan4012/project-url)
+  - [Silent Scalper](https://github.com/Ryan4012/project-url)
+  - [The Smart Vault](https://github.com/Ryan4012/project-url)
   - []()
     
 - <b>🤖 AI/ML</b>
-  - []()
+  - [AI Customer Service Bot](https://github.com/Ryan4012/project-url)
   - []()
     
 - <b>⌨️ Software Development</b>
