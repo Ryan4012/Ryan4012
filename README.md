@@ -2,49 +2,106 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>💻 Information Technology</b>
-  - [Active Directory Home Lab](https://github.com/Ryan4012/ActiveDirectoryLab)
-  - [PC Build](https://github.com/Ryan4012/PC-Build)
-  - [DNS Pi-hole](https://github.com/Ryan4012/DNS-Pi-Hole)
-  - []()
 
-- <b>🛡️ Cybersecurity</b>
-  - [Vulnerability Management Lab](https://github.com/Ryan4012/VulnerabilityManagementLab)
-  - [Azure Home SOC Lab](https://github.com/Ryan4012/AzureHomeSOCLab)
-  - [FIM (File Integrity Monitor) System](https://github.com/Ryan4012/FIM)
-  - 
+<table>
+  <thead>
+    <tr>
+      <th>💻 Information Technology</th>
+      <th>🛡️ Cybersecurity</th>
+      <th>☁️ Cloud</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab>Active Directory Home Lab</a></li>
+        <li><a href = https://github.com/Ryan4012/PC-Build>PC Build</a></li>
+        <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
+      </td>
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/VulnerabilityManagementLab>Vulnerability Managment Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/FIM>FIM (File Integrity Monitor) System</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/>Smart Static Website</a></li>
+          <li><a href = https://github.com/Ryan4012/>Silent Scalper</a></li>
+          <li><a href = https://github.com/Ryan4012/>The Smart Vault</a></li>
+          <li><a href = >...</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<b></b>
+<table>
+  <thead>
+    <tr>
+      <th>🤖 AI/ML</th>
+      <th>⌨️ Software Development</th>
+      <th>...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <li><a href = https://github.com/Ryan4012/>AI Customer Service Bot</a></li>
+        <li><a href = https://github.com/Ryan4012/>...</a></li>
+        <li><a href = https://github.com/Ryan4012/>...</a></li>
+      </td>
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Coffee Shop Game in Python</a></li>
+          <li><a href = https://github.com/Ryan4012/>Rest API</a></li>
+          <li><a href = https://github.com/Ryan4012/>...</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href = >...</a></li>
+          <li><a href = >...</a></li>
+          <li><a href = >...</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- <b>☁️ Cloud</b>
-  - [Smart Static Website](https://github.com/Ryan4012/project-url)
-  - [Silent Scalper](https://github.com/Ryan4012/project-url)
-  - [The Smart Vault](https://github.com/Ryan4012/project-url)
-  - []()
-    
-- <b>🤖 AI/ML</b>
-  - [AI Customer Service Bot](https://github.com/Ryan4012/project-url)
-  - []()
-    
-- <b>⌨️ Software Development</b>
-  - [Coffee Shop Game in Python](https://github.com/Ryan4012/CoffeeShopGame)
-  - [Rest API](https://github.com/Ryan4012/project-url)
-  - []()
 
 <h2>📄 Certifications:</h2>
 
-- <b>💻 Information Technology</b>
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7)
-
-- <b>🛡️ Cybersecurity</b>
-  - [Google Cybersecurity Professional]() (Expected 2026)
-  - [...]()
-  
-- <b>...</b>
-  - [...]()
-
-
+<table>
+  <thead>
+    <tr>
+      <th>💻 Information Technology</th>
+      <th>🛡️ Cybersecurity</th>
+      <th>...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional</a></li>
+      </td>
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Google Cybersecurity Professional</a> (Expected 2026) </li>
+          <li><a href = https://github.com/Ryan4012/>...</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href = >...</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2> 🤳 Connect with me:</h2>
-
 
 [<img align="left" alt="RyanFranson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][x]
