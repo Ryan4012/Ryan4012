@@ -42,7 +42,7 @@
     <tr>
       <th>🤖 AI/ML</th>
       <th>⌨️ Software Development</th>
-      <th>...</th>
+      <th>❓ ...</th>
     </tr>
   </thead>
   <tbody>
