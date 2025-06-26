@@ -78,7 +78,7 @@
     <tr>
       <th>💻 Information Technology</th>
       <th>🛡️ Cybersecurity</th>
-      <th>...</th>
+      <th>❓ ...</th>
     </tr>
   </thead>
   <tbody>
