@@ -27,9 +27,9 @@
       </td>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/project-url>Smart Static Website</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Silent Scalper</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>The Smart Vault</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Smart Static Website*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Silent Scalper*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>The Smart Vault*</a></li>
           <li><a href = >...</a></li>
         </ul>
       </td>
@@ -48,14 +48,14 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://github.com/Ryan4012/project-url>AI Customer Service Bot</a></li>
+        <li><a href = https://github.com/Ryan4012/project-url>AI Customer Service Bot*</a></li>
         <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
         <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
       </td>
       <td>
         <ul>
           <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Coffee Shop Game in Python</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Rest API</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Rest API*</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
         </ul>
       </td>
@@ -70,6 +70,7 @@
   </tbody>
 </table>
 
+<br>* Incomplete</br>
 
 <h2>📄 Certifications:</h2>
 
