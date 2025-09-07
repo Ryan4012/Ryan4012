@@ -1,6 +1,14 @@
 <h1>Hi, I'm Ryan! </br> Currently a CSUF Computer Science - Cybersecurity Concentration Student</h1>
 <h2>GitHub Stats:</h2>
-<a href = https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=radical>Stats</a>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+
+</div>
+
+
 
 <h2>👨‍💻 Projects:</h2>
 
