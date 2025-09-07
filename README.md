@@ -1,4 +1,6 @@
-<h1>Hi, I'm Ryan! <br/> CSUF Computer Science - Cybersecurity Concentration Student </a></h1>
+<h1>Hi, I'm Ryan! </br> Currently a CSUF Computer Science - Cybersecurity Concentration Student</h1>
+<h2>GitHub Stats:</h2>
+<a href = https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=radical>Stats</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -71,7 +73,7 @@
   </tbody>
 </table>
 
-<br>* Incomplete</br>
+<p>* Incomplete</p>
 
 <h2>📄 Certifications:</h2>
 
