@@ -3,9 +3,9 @@
 <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35" height="35" style="vertical-align: middle;" />GitHub Stats:</h2>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" height="180"/>
 
 </div>
 
