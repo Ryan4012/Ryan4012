@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ryan! </br> Currently a CSUF Computer Science - Cybersecurity Concentration Student</h1>
 
+<h2> <a href= https://127.0.0.1:3002/Home.html > 💼 Personal Website</a> </h2>
+
 <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35" height="35" style="vertical-align: middle;" />GitHub Stats:</h2>
 <div align="center">
 
@@ -14,7 +16,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>💻 Information Technology</th>
@@ -48,7 +50,7 @@
   </tbody>
 </table>
 <b></b>
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>🤖 AI/ML</th>
@@ -86,7 +88,7 @@
 
 <h2>📄 Certifications:</h2>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>💻 Information Technology</th>
