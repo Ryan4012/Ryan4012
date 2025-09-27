@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ryan! </br> Currently a CSUF Computer Science - Cybersecurity Concentration Student</h1>
 
-<h2> <a href= https://personal-portfolio-delta-two-63.vercel.app > 💼 Personal Website</a> </h2>
+<h2> <a href= https://personal-portfolio-delta-two-63.vercel.app target="_blank" rel="noopener noreferrer" > 💼 Personal Website</a> </h2>
 
 <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"> GitHub Stats:</h2>
 <div align="center">
