@@ -2,11 +2,7 @@
 
 <h2> <a href= http://.../Home.html > 💼 Personal Website*</a> </h2>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-       alt="GitHub" width="35" height="35">
-  <h2 style="margin: 0;">GitHub Stats:</h2>
-</div>
+<h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"> GitHub Stats:</h2>
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
