@@ -30,6 +30,7 @@
         <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab >Active Directory Environment</a></li>
         <li><a href = https://github.com/Ryan4012/PC-Build >PC Build</a></li>
         <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole >DNS Pi-hole</a></li>
+        <li><a href = https://github.com/Ryan4012/ >Small Home Server*</a></li>
       </td>
       <td>
         <ul>
