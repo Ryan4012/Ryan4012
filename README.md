@@ -3,15 +3,6 @@
 <h2> <a href= https://personal-portfolio-delta-two-63.vercel.app > 💼 Personal Website</a> </h2>
 
 <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"> GitHub Stats:</h2>
-<div align="center">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" />
-
-</div>
-
-
 
 <h2>👨‍💻 Projects:</h2>
 
