@@ -69,7 +69,7 @@
           <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Coffee Shop Game in Python</a></li>
           <li><a href = https://github.com/Ryan4012/PersonalPortfolioTemp>Personal Portfolio Template in HTML/CSS</a></li>
           <li><a href = https://github.com/Ryan4012/Algorithm-Visualizer>Algorithm Visualizer</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Pi Video Camera Feed Swift App*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Pi Camera Feed Swift App*</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>...*</a></li>
         </ul>
       </td>
