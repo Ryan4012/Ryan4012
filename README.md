@@ -35,6 +35,8 @@
           <li><a href = https://github.com/Ryan4012/VulnerabilityManagementLab>Vulnerability Managment Lab</a></li>
           <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
           <li><a href = https://github.com/Ryan4012/FIM>FIM (File Integrity Monitor) System</a></li>
+          <li><a href = https://github.con/Ryan4012/...>OpenSSL Keypair Demo</a></li>
+          <li><a href = https://github.com/Ryan4012/...>Secure ZMQ Messaging Demo</a></li>
         </ul>
       </td>
       <td>
