@@ -5,9 +5,13 @@
 <h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"> GitHub Stats:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="Stats" />
 
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" />
+      
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=donut&langs_count=10&theme=tokyonight" alt="Top Langs" height="195" />
+
+  <!-- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" /> -->
+  
 </div>
 
 
