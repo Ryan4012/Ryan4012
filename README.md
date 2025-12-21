@@ -7,10 +7,24 @@
 <div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="Stats" />
 
-      
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=donut&langs_count=10&theme=tokyonight" alt="Top Langs" height="195" />
 
   <!-- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" /> -->
+  
+</div>
+
+<h2> Pinned Repo's </h2>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=ActiveDirectoryLab&description_lines_count=3&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=AzureHomeSOCLab&description_lines_count=3&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=Algorithm-Visualizer&description_lines_count=3&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=Secure-ZMQ-messaging-demo&description_lines_count=3&theme=tokyonight" />
+
   
 </div>
 
