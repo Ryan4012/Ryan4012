@@ -13,7 +13,7 @@
   
 </div>
 
-<h2> Pinned Repo's </h2>
+<!--<h2> Pinned Repo's </h2>
 
 <div align="center">
   
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=Secure-ZMQ-messaging-demo&description_lines_count=3&theme=tokyonight" />
 
   
-</div>
+</div> -->
 
 
 <h2>👨‍💻 Projects:</h2>
