@@ -53,16 +53,14 @@
       <td>
         <ul>
           <li><a href = https://github.com/Ryan4012/VulnerabilityManagementLab>Vulnerability Managment Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
           <li><a href = https://github.com/Ryan4012/FIM>FIM (File Integrity Monitor) System</a></li>
           <li><a href = https://github.com/Ryan4012/OpenSSL-keypair-demo>OpenSSL Keypair Demo</a></li>
           <li><a href = https://github.com/Ryan4012/Secure-ZMQ-messaging-demo>Secure ZMQ Messaging Demo</a></li>
         </ul>
       </td>
       <td>
-        <ul>
-          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
+        <ul>          
+          <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
           <li><a href = >...</a></li>
         </ul>
