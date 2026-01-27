@@ -61,7 +61,7 @@
       <td>
         <ul>          
           <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
           <li><a href = >...</a></li>
         </ul>
       </td>
@@ -104,7 +104,7 @@
   </tbody>
 </table>
 
-<p>* Incomplete</p>
+<p>* In Progress</p>
 
 <h2>📄 Certifications:</h2>
 
