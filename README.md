@@ -45,10 +45,10 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab >Active Directory Environment</a></li>
-        <li><a href = https://github.com/Ryan4012/PC-Build >PC Build</a></li>
-        <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole >DNS Pi-hole</a></li>
-        <li><a href = https://github.com/Ryan4012/HomeServer >Home Server Project/Lab</a></li>
+        <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab>Active Directory Environment</a></li>
+        <li><a href = https://github.com/Ryan4012/PC-Build>PC Build</a></li>
+        <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
+        <li><a href = https://github.com/Ryan4012/HomeServer>Home Server Project/Lab</a></li>
       </td>
       <td>
         <ul>
@@ -61,9 +61,9 @@
       </td>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/project-url>Smart Static Website*</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Silent Scalper*</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>The Smart Vault*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>*</a></li>
           <li><a href = >...</a></li>
         </ul>
       </td>
@@ -82,8 +82,8 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://github.com/Ryan4012/project-url>AI Customer Service Bot*</a></li>
-        <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
+        <li><a href = https://github.com/Ryan4012/project-url>AI Chat Bot*</a></li>
+        <li><a href = https://github.com/Ryan4012/project-url>Automation Workflows*</a></li>
         <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
       </td>
       <td>
