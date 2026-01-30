@@ -45,10 +45,12 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab>Active Directory Environment</a></li>
-        <li><a href = https://github.com/Ryan4012/PC-Build>PC Build</a></li>
-        <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
-        <li><a href = https://github.com/Ryan4012/HomeServer>Home Server Project/Lab</a></li>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab>Active Directory Environment</a></li>
+          <li><a href = https://github.com/Ryan4012/PC-Build>PC Build</a></li>
+          <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
+          <li><a href = https://github.com/Ryan4012/HomeServer>Home Server Project/Lab</a></li>
+        </ul>
       </td>
       <td>
         <ul>
@@ -80,9 +82,11 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://github.com/Ryan4012/project-url>AI Chat Bot*</a></li>
-        <li><a href = https://github.com/Ryan4012/project-url>Automation Workflows*</a></li>
-        <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/project-url>AI Chat Bot*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Automation Workflows*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
+        </ul>
       </td>
       <td>
         <ul>
@@ -119,7 +123,9 @@
   <tbody>
     <tr>
       <td>
-        <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional</a></li>
+        <ul>
+          <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional</a></li>
+        </ul>
       </td>
       <td>
         <ul>
