@@ -144,12 +144,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RyanFranson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][x]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt=" | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][x]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 [linkedin]: https://linkedin.com/in/ryan-franson
-[x]: https://x.com/
-[instagram]: https://www.instagram.com//
+<!-- [x]: https://x.com/
+[instagram]: https://www.instagram.com// -->
 
 
 <!--
@@ -163,6 +163,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
