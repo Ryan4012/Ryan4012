@@ -120,12 +120,12 @@
     <tr>
       <td>
         <ul>
-          <li><a href = https://...> CompTIA A+,  Security+, and Network+ Curriculum from Professor Messer </a></li>
-          <li><a href = https://...> Offensive Security Society (OSS) @ CSUF </a></li>
-          <li><a href = https://...> TryHackMe </a></li>
-          <li><a href = https://...> HackTheBox </a></li>
-          <li><a href = https://...> OverTheWire (Linux Games) </a></li>
-          <li><a href = https://...> PicoCTF </a></li>
+          <li><a href = https://github.com/Ryan4012/CompTIA> CompTIA A+,  Security+, and Network+ Curriculum from Professor Messer </a></li>
+          <li><a href = https://github.com/Ryan4012/OSS> Offensive Security Society (OSS) @ CSUF </a></li>
+          <li><a href = https://github.com/Ryan4012/THM> TryHackMe </a></li>
+          <li><a href = https://github.com/Ryan4012/HTB> HackTheBox </a></li>
+          <li><a href = https://github.com/Ryan4012/OTW> OverTheWire (Linux Games) </a></li>
+          <li><a href = https://github.com/Ryan4012/PCTF> PicoCTF </a></li>
         </ul>
       </td> 
     </tr>
