@@ -109,7 +109,7 @@
 
 <p>* In Progress</p>
 
-<h2>📚 Education:</h2>
+<h2>📚 Applied Independent Study:</h2>
 <table align="center">
   <thead>
     <tr>
