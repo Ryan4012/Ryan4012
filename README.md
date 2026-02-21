@@ -120,6 +120,7 @@
     <tr>
       <td>
         <ul>
+          <li><a href = https://...> CompTIA A+,  Security+, and Network+ Curriculum from Professor Messer </a></li>
           <li><a href = https://...> Offensive Security Society (OSS) @ CSUF </a></li>
           <li><a href = https://...> TryHackMe </a></li>
           <li><a href = https://...> HackTheBox </a></li>
