@@ -109,6 +109,28 @@
 
 <p>* In Progress</p>
 
+<h2>📚 Education:</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Labs and Workshops</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><a href = https://...> Offensive Security Society (OSS) @ CSUF </a></li>
+          <li><a href = https://...> TryHackMe </a></li>
+          <li><a href = https://...> HackTheBox </a></li>
+          <li><a href = https://...> OverTheWire (Linux Games) </a></li>
+          <li><a href = https://...> PicoCTF </a></li>
+        </ul>
+      </td> 
+    </tr>
+  </tbody>
+</table>
+
 <h2>📄 Certifications:</h2>
 
 <table align="center">
