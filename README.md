@@ -74,7 +74,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>🤖 AI/ML</th>
+      <th>🤖 AI/ML/Automation</th>
       <th>⌨️ Software Development</th>
       <th>❓ ...</th>
     </tr>
@@ -83,8 +83,8 @@
     <tr>
       <td>
         <ul>
+          <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>AI Chat Bot*</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Automation Workflows*</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
         </ul>
       </td>
