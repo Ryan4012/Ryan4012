@@ -75,8 +75,8 @@
   <thead>
     <tr>
       <th>🤖 AI/ML/Automation</th>
+      <th>🧱 DevSecOps/Infrastructure</th>
       <th>⌨️ Software Development</th>
-      <th>❓ ...</th>
     </tr>
   </thead>
   <tbody>
@@ -89,18 +89,18 @@
         </ul>
       </td>
       <td>
-        <ul>
+       <ul>
+          <li><a href = >...</a></li>
+          <li><a href = >...</a></li>
+          <li><a href = >...</a></li>
+        </ul>
+      </td>
+      <td>
+       <ul>
           <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Coffee Shop Game in Python</a></li>
           <li><a href = https://github.com/Ryan4012/PersonalPortfolioTemp>Personal Portfolio Template in HTML/CSS</a></li>
           <li><a href = https://github.com/Ryan4012/Algorithm-Visualizer>Algorithm Visualizer</a></li>
           <li><a href = https://github.com/Ryan4012/PiCamApp>Pi Camera App</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href = >...</a></li>
-          <li><a href = >...</a></li>
-          <li><a href = >...</a></li>
         </ul>
       </td>
     </tr>
