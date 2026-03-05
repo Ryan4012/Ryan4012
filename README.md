@@ -139,7 +139,7 @@
     <tr>
       <th>💻 Information Technology</th>
       <th>🛡️ Cybersecurity</th>
-      <th>❓ ...</th>
+      <th>🧱 DevSecOps/Infrastructure</th>
     </tr>
   </thead>
   <tbody>
@@ -151,13 +151,12 @@
       </td>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/cert-url>Google Cybersecurity Professional</a> (Expected 2026) </li>
           <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href = >...</a></li>
+          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
         </ul>
       </td>
     </tr>
