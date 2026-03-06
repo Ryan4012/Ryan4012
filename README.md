@@ -84,7 +84,7 @@
       <td>
         <ul>
           <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>AI Chat Bot*</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Local AI Model*</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
         </ul>
       </td>
