@@ -29,7 +29,7 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
     <tr>
       <th>💻 Information Technology</th>
       <th>🛡️ Cybersecurity</th>
-      <th>☁️ Cloud</th>
+      <th>☁️ Cloud & 🧱 Infrastructure</th>
     </tr>
   </thead>
   <tbody>
@@ -65,7 +65,6 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
   <thead>
     <tr>
       <th>🤖 AI/ML/Automation</th>
-      <th>🧱 DevSecOps/Infrastructure</th>
       <th>⌨️ Software Development</th>
     </tr>
   </thead>
@@ -76,13 +75,6 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
           <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>Local AI Model*</a></li>
           <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
-        </ul>
-      </td>
-      <td>
-       <ul>
-          <li><a href = >...</a></li>
-          <li><a href = >...</a></li>
-          <li><a href = >...</a></li>
         </ul>
       </td>
       <td>
