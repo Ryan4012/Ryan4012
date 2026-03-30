@@ -113,7 +113,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Labs and Workshops</th>
+      <th>🧪 Labs and Workshops</th>
     </tr>
   </thead>
   <tbody>
