@@ -1,8 +1,15 @@
-<h1>Hi, I'm Ryan! </br> Currently a CSUF Computer Science - Cybersecurity Concentration Student</h1>
+<h1> Hi, I'm Ryan 👋  <br>
+Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
-<h2> <a href= https://rf-port.vercel.app/ > 💼 Personal Website</a> </h2>
+<p> 🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML  <br>
+    🛠️ Building: Home Labs, Security Tools, Cloud-Based Systems  <br>
+    🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering  <br>
+    🌐 Portfolio: <a href = https://rf-port.vercel.app/ > Click Here! </a>
+    
+    
+</p>
 
-<h2><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"> GitHub Stats:</h2>
+
 
 <div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="Stats" />
@@ -15,20 +22,6 @@
   
 </div>
 
-<!--<h2> Pinned Repo's </h2>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=ActiveDirectoryLab&description_lines_count=3&theme=tokyonight" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=AzureHomeSOCLab&description_lines_count=3&theme=tokyonight" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=Algorithm-Visualizer&description_lines_count=3&theme=tokyonight" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan4012&repo=Secure-ZMQ-messaging-demo&description_lines_count=3&theme=tokyonight" />
-
-  
-</div> -->
 
 
 <h2>👨‍💻 Projects:</h2>
