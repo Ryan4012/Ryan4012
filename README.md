@@ -1,11 +1,11 @@
 <h1> Hi, I'm Ryan 👋  <br>
 Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
-<p> 🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML  <br>
+<p> 
+    🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML  <br>
     🛠️ Building: Home Labs, Security Tools, Cloud-Based Systems  <br>
     🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering  <br>
     🌐 Portfolio: <a href = https://rf-port.vercel.app/ > Click Here! </a>
-    
     
 </p>
 
