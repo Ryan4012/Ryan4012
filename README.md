@@ -53,8 +53,7 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
       <td>
         <ul>          
           <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
-          <li><a href = >...</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
         </ul>
       </td>
     </tr>
@@ -73,8 +72,8 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
       <td>
         <ul>
           <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>Local AI Model*</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>...</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Local AI Model</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
         </ul>
       </td>
       <td>
@@ -89,7 +88,6 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
   </tbody>
 </table>
 
-<p>* In Progress</p>
 
 <h2>📚 Applied Independent Study:</h2>
 <table align="center">
@@ -121,29 +119,34 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
     <tr>
       <th>💻 Information Technology</th>
       <th>🛡️ Cybersecurity</th>
-      <th>🧱 DevSecOps/Infrastructure</th>
+      <th>❓ Other</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <ul>
-          <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional</a></li>
+          <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional Certificate</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/cert-url>...</a></li> -->
         </ul>
       </td>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/cert-url>...</a></li> -->
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+## 🔭 Currently Working On
+- Local AI Model Integration
+- Building Upon My Home Server
+- Expanding On My Security Related Projects
 
 <h2> 🤳 Connect with me:</h2>
 
