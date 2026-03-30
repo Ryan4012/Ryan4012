@@ -145,8 +145,8 @@ Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
 ## 🔭 Currently Working On
 - Local AI Model Integration
-- Building Upon My Home Server
-- Expanding On My Security Related Projects
+- Adding To Home Server
+- Expanding Security Related Projects
 
 <h2> 🤳 Connect with me:</h2>
 
