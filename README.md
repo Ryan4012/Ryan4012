@@ -1,11 +1,14 @@
-<h1> Hi, I'm Ryan 👋  <br>
-Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
+<p align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Courier&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=300&height=80&lines=Hi+and+Welcome...;I'm+Ryan%2C">
+</p>
+
+<h1> Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
 ### 🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML 
 ### 🛠️ Building: Home Labs, Security Tools, Cloud-Based Systems 
 ### 🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering 
 ### 🌐 Portfolio: <a href = https://rf-port.vercel.app/ > Click Here! </a>
-    
+
 <br> 
 
 <div align="center">
