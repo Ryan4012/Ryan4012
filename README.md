@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Courier&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=300&height=80&lines=Hi+and+Welcome...;I'm+Ryan%2C">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=300&height=80&lines=Hi+and+Welcome...;I'm+Ryan,">
 </p>
 
 <h1> Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
