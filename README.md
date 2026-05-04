@@ -108,7 +108,6 @@
           <li><a href = https://github.com/Ryan4012/THM> TryHackMe </a></li>
           <li><a href = https://github.com/Ryan4012/HTB> HackTheBox </a></li>
           <li><a href = https://github.com/Ryan4012/OTW> OverTheWire (Linux Games) </a></li>
-          <li><a href = https://github.com/Ryan4012/PCTF> PicoCTF </a></li>
         </ul>
       </td> 
     </tr>
