@@ -85,6 +85,7 @@
           <li><a href = https://github.com/Ryan4012/PersonalPortfolioTemp>Personal Portfolio Template in HTML/CSS</a></li>
           <li><a href = https://github.com/Ryan4012/Algorithm-Visualizer>Algorithm Visualizer</a></li>
           <li><a href = https://github.com/Ryan4012/PiCamApp>Pi Camera App</a></li>
+          <li><a href = https://github.com/Ryan4012/cis226-java> Java Programming</a></li>
         </ul>
       </td>
     </tr>
