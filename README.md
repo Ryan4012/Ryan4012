@@ -85,7 +85,6 @@
           <li><a href = https://github.com/Ryan4012/PersonalPortfolioTemp>Personal Portfolio Template in HTML/CSS</a></li>
           <li><a href = https://github.com/Ryan4012/Algorithm-Visualizer>Algorithm Visualizer</a></li>
           <li><a href = https://github.com/Ryan4012/PiCamApp>Pi Camera App</a></li>
-          <li><a href = https://github.com/Ryan4012/cis226-java> Java Programming</a></li>
         </ul>
       </td>
     </tr>
@@ -120,9 +119,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>💻 Information Technology</th>
-      <th>🛡️ Cybersecurity</th>
-      <th>❓ Other</th>
+      <th>💻 Information Technology / 🛡️ Cybersecurity / ❓ Other</th>
     </tr>
   </thead>
   <tbody>
@@ -130,16 +127,8 @@
       <td>
         <ul>
           <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional Certificate</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <!-- <li><a href = https://github.com/Ryan4012/cert-url>...</a></li> -->
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <!-- <li><a href = https://github.com/Ryan4012/cert-url>...</a></li> -->
+          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
+          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
         </ul>
       </td>
     </tr>
