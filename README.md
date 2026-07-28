@@ -11,7 +11,7 @@
 
 ### 🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML 
 ### 🛠️ Building: Home Labs, Security Tools, Cloud-Based Systems 
-### 🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering 
+### 🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering / SysAdmin / Network Engineering
 <!-- ### 🌐 Portfolio: <a href = https://rf-port.vercel.app/ > Click Here! </a> -->
 
 <br> 
