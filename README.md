@@ -17,10 +17,11 @@
 <br> 
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan4012&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ryan4012&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord" alt="Stats" />
+  
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" height="195" /> -->
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=donut&langs_count=10&theme=tokyonight" alt="Top Langs" height="195" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ryan4012&layout=compact&langs_count=12&theme=nord" alt="Top Langs" />
 
 
   <!-- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" /> -->
