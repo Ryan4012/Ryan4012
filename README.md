@@ -4,7 +4,8 @@
 
 <h1> Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-franson)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-franson)
 [![Website](https://img.shields.io/badge/Portfolio-lightblue?style=for-the-badge&logo=next.js&logoColor=black)](https://rf-port.vercel.app)
 
 
@@ -95,18 +96,21 @@
   </tbody>
 </table>
 
-[![Software](https://img.shields.io/badge/Proxmox-orange?style=for-the-badge&logo=proxmox&logoColor=white)]()
-[![Service](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Software](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)]()
-[![Hardware](https://img.shields.io/badge/Raspberry_Pi-red?style=for-the-badge&logo=raspberrypi&logoColor=black)]()
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+[![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-red?style=for-the-badge&logo=raspberrypi&logoColor=black)]()
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-[![Hardware](https://img.shields.io/badge/Switch-blue?style=for-the-badge&logo=&logoColor=white)]()
 
-
+<!-- 
 [![](https://img.shields.io/badge/ ?style=for-the-badge&logo= &logoColor= )]()
-[![](https://img.shields.io/badge/ ?style=for-the-badge&logo= &logoColor= )]()
-
-
+[![](https://img.shields.io/badge/ ?style=for-the-badge&logo= &logoColor= )]() 
+-->
 
 
 
@@ -159,15 +163,21 @@
 - Adding To Home Server
 - Expanding Security Related Projects
 
+
+<!--
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RyanFranson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!-- [<img align="left" alt=" | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][x]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 [linkedin]: https://linkedin.com/in/ryan-franson
+
 <!-- [x]: https://x.com/
 [instagram]: https://www.instagram.com// -->
+
 
 
 <!--
