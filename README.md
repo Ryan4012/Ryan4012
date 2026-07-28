@@ -4,6 +4,10 @@
 
 <h1> Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-franson)
+[![Website](https://img.shields.io/badge/Portfolio-lightblue?style=for-the-badge&logo=next.js&logoColor=black)](https://rf-port.vercel.app)
+
+
 ### 🔐 Interests: Cybersecurity, Cloud Engineering, DevSecOps, AI/ML 
 ### 🛠️ Building: Home Labs, Security Tools, Cloud-Based Systems 
 ### 🎯 Goal: Entry-level role in Cybersecurity / Cloud Engineering 
@@ -19,9 +23,9 @@
 
 
   <!-- <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan4012&layout=compact&theme=tokyonight" /> -->
-  
-</div>
 
+
+</div>
 
 
 <h2>👨‍💻 Projects:</h2>
@@ -91,6 +95,20 @@
   </tbody>
 </table>
 
+[![Software](https://img.shields.io/badge/Proxmox-orange?style=for-the-badge&logo=proxmox&logoColor=white)]()
+[![Service](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Software](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)]()
+[![Hardware](https://img.shields.io/badge/Raspberry_Pi-red?style=for-the-badge&logo=raspberrypi&logoColor=black)]()
+
+[![Hardware](https://img.shields.io/badge/Switch-blue?style=for-the-badge&logo=&logoColor=white)]()
+
+
+[![](https://img.shields.io/badge/ ?style=for-the-badge&logo= &logoColor= )]()
+[![](https://img.shields.io/badge/ ?style=for-the-badge&logo= &logoColor= )]()
+
+
+
+
 
 <h2>📚 Applied Independent Study:</h2>
 <table align="center">
@@ -113,6 +131,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <h2>📄 Certifications:</h2>
 
