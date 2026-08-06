@@ -48,7 +48,7 @@
           <li><a href = https://github.com/Ryan4012/ActiveDirectoryLab>Active Directory Environment</a></li>
           <li><a href = https://github.com/Ryan4012/PC-Build>PC Build</a></li>
           <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
-          <li><a href = https://github.com/Ryan4012/HomeServer>Home Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li>
         </ul>
       </td>
       <td>
