@@ -161,7 +161,7 @@
 
 ## 🔭 Currently Working On
 - Local AI Model Integration
-- Adding To Home Server
+- Adding to my Home Lab
 - Expanding Security Related Projects
 
 
