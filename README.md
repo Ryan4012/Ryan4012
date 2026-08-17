@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Courier&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=300&height=80&lines=Hi+and+Welcome...;I'm+Ryan,">
 </p>
 
-<h1> Computer Science student @ CSUF (Cybersecurity Concentration) </h1>
+<h1> Computer Science student @ CSUF | Cybersecurity </h1>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-franson)
@@ -159,10 +159,10 @@
   </tbody>
 </table>
 
-## 🔭 Currently Working On
+## 🔭 Currently Exploring
 - Local AI Model Integration
-- Adding to my Home Lab
-- Expanding Security Related Projects
+- Home Lab Infrastructure
+- Security Monitoring
 
 
 <!--
