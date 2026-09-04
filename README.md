@@ -126,7 +126,6 @@
     <tr>
       <td>
         <ul>
-          <li><a href = https://github.com/Ryan4012/CompTIA> CompTIA A+, Network+, and Security+ Curriculum from Professor Messer </a></li>
           <li><a href = https://github.com/Ryan4012/OSS-WS> Offensive Security Society (OSS) @ CSUF </a></li>
           <li><a href = https://github.com/Ryan4012/THM> TryHackMe </a></li>
           <li><a href = https://github.com/Ryan4012/HTB> HackTheBox </a></li>
