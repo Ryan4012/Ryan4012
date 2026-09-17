@@ -151,7 +151,7 @@
       <td>
         <ul>
           <li><a href = https://www.coursera.org/account/accomplishments/specialization/FZH7VG7NBDH7>Google IT Support Professional Certificate</a></li>
-          <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
+          <li><a href = https://github.com/Ryan4012/cert-url>CompTIA Security+ (Expected Winter 2026)</a></li>
           <li><a href = https://github.com/Ryan4012/cert-url>...</a></li>
         </ul>
       </td>
