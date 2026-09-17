@@ -62,6 +62,7 @@
       <td>
         <ul>          
           <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li>
           <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
         </ul>
       </td>
@@ -72,7 +73,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>🤖 AI/ML/Automation</th>
+      <th>🤖 AI/Automation</th>
       <th>⌨️ Software Development</th>
     </tr>
   </thead>
