@@ -46,7 +46,7 @@
       <td>
         <ul>  
           <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/project-url>IaC/k3s</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>Self-Hosted DevOps Platform</a></li>
           <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
           <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
         </ul>
