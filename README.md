@@ -36,9 +36,45 @@
 <table align="center">
   <thead>
     <tr>
-      <th>💻 Information Technology</th>
-      <th>🛡️ Cybersecurity</th>
       <th>☁️ Cloud & 🧱 Infrastructure</th>
+      <th>🛡️ Cybersecurity</th>
+      <th>🤖 AI/Automation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>  
+          <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/project-url>IaC/k3s</a></li>
+          <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/VulnerabilityManagementLab>Vulnerability Managment Lab</a></li>
+          <li><a href = https://github.com/Ryan4012/FIM>FIM (File Integrity Monitor) System</a></li>
+          <li><a href = https://github.com/Ryan4012/OpenSSL-keypair-demo>OpenSSL Keypair Demo</a></li>
+          <li><a href = https://github.com/Ryan4012/Secure-ZMQ-messaging-demo>Secure ZMQ Messaging Demo</a></li>
+        </ul>
+      </td> 
+      <td>
+        <ul>
+          <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
+          <li><a href = https://github.com/Ryan4012/Local-Ai>Local AI Model</a></li>
+          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<b></b>
+<table align="center">
+  <thead>
+    <tr>
+      <th>💻 Information Technology</th>
+      <th>⌨️ Software Development</th>
     </tr>
   </thead>
   <tbody>
@@ -50,42 +86,7 @@
           <li><a href = https://github.com/Ryan4012/DNS-Pi-Hole>DNS Pi-hole</a></li>
           <!-- <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li> -->
         </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href = https://github.com/Ryan4012/VulnerabilityManagementLab>Vulnerability Managment Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/FIM>FIM (File Integrity Monitor) System</a></li>
-          <li><a href = https://github.com/Ryan4012/OpenSSL-keypair-demo>OpenSSL Keypair Demo</a></li>
-          <li><a href = https://github.com/Ryan4012/Secure-ZMQ-messaging-demo>Secure ZMQ Messaging Demo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>          
-          <li><a href = https://github.com/Ryan4012/AzureHomeSOCLab>Azure Home SOC Lab</a></li>
-          <li><a href = https://github.com/Ryan4012/HomeLab>Home Lab</a></li>
-          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b></b>
-<table align="center">
-  <thead>
-    <tr>
-      <th>🤖 AI/Automation</th>
-      <th>⌨️ Software Development</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li><a href = https://github.com/Ryan4012/Auto-Client>Automated Booking & Client Management Platform</a></li>
-          <li><a href = https://github.com/Ryan4012/Local-Ai>Local AI Model</a></li>
-          <!-- <li><a href = https://github.com/Ryan4012/project-url>...</a></li> -->
-        </ul>
-      </td>
+      </td>  
       <td>
        <ul>
           <li><a href = https://github.com/Ryan4012/CoffeeShopGame>Coffee Shop Game in Python</a></li>
