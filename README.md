@@ -38,7 +38,7 @@
     <tr>
       <th>☁️ Cloud & 🧱 Infra/Automation</th>
       <th>🛡️ Cybersecurity</th>
-      <th>🤖 AI/Automation</th>
+      <th>🤖 AI</th>
     </tr>
   </thead>
   <tbody>
