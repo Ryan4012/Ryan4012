@@ -130,7 +130,6 @@
         <ul>
           <li><a href = https://github.com/Ryan4012/OSS-WS> Offensive Security Society (OSS) @ CSUF </a></li>
           <li><a href = https://github.com/Ryan4012/THM> TryHackMe </a></li>
-          <li><a href = https://github.com/Ryan4012/HTB> HackTheBox </a></li>
           <li><a href = https://github.com/Ryan4012/OTW> OverTheWire (Linux Games) </a></li>
         </ul>
       </td> 
